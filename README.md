@@ -1,4 +1,8 @@
 # truecaller-blog
+# Guide
+1. ```npm install``` for installing dependencies for the project
+2. npm run dev to run the project in your local device  
+
 # Solution
 
 1. Framework used: Vue 2.
